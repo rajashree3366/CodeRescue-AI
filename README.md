@@ -257,8 +257,8 @@ The demo contains intentionally seeded documentation, testing, dependency, and m
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_PROJECT_FOLDER>
+git clone <https://github.com/rajashree3366/CodeRescue-AI.git>
+cd <CodeRescue-AI>
 ```
 
 Open:
